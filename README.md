@@ -39,5 +39,5 @@ jupyter notebook neural_network_task.ipynb
 ```
 
 ## Credits
-This notebook was created by Abdullah Al Mehdhar. For more information or to get in touch, visit [Your LinkedIn Profile](https://www.linkedin.com/in/abdullah-al-mehdhar-947810169/).
+This notebook was created by Abdullah Al Mehdhar. For more information or to get in touch, visit [LinkedIn Profile](https://www.linkedin.com/in/abdullah-al-mehdhar-947810169/).
 
