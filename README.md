@@ -1,8 +1,12 @@
-Certainly! Here's a more aesthetically pleasing version of the README formatted for GitHub:
-
----
-
 # Neural Network Task
+
+
+## Table of Contents
+- [Description](#Description)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Credits](#credits)
+
 
 ## Description
 This project demonstrates the implementation of a neural network for a specific machine learning task using a Jupyter notebook. The notebook guides you through the following steps:
@@ -17,12 +21,6 @@ This project demonstrates the implementation of a neural network for a specific 
 5. Hyperparameter Tuning: Experimenting with different hyperparameters such as learning rate, batch size, and number of epochs to optimize the model's performance.
 
 6. Visualization: Visualizing the results of the training process, including plotting the training and validation accuracy/loss over epochs, and visualizing the model's predictions versus the actual values.
-
-
-## Table of Contents
-- [Installation](#installation)
-- [Usage](#usage)
-- [Credits](#credits)
 
 ## Installation
 To run this notebook locally, you'll need to have the following dependencies installed:
