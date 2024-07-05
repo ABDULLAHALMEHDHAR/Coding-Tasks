@@ -30,11 +30,21 @@ pip install numpy pandas matplotlib scikit-learn tensorflow
 ```
 
 ## Usage
+
 After installing the necessary packages, you can run the Jupyter notebook using the following command:
 
 ```bash
 jupyter notebook neural_network_task.ipynb
 ```
+5. Examples
+
+Here are some screenshots showing the output of the notebook at different stages:
+
+5.1 Data Visualization
+![image](https://github.com/ABDULLAHALMEHDHAR/Coding-Tasks/assets/163059044/a29cfdb5-19bd-4fe4-8709-8c452b579e8e)
+5.2 Model Training
+5.3 Model Evaluation
+
 
 ## Credits
 This notebook was created by Abdullah Al Mehdhar. For more information or to get in touch, visit [LinkedIn Profile](https://www.linkedin.com/in/abdullah-al-mehdhar-947810169/).
