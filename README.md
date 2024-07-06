@@ -5,7 +5,7 @@
 - [Description](#Description)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Examples](#examples)
+- [Examples](#Examples)
 - [Credits](#credits)
 
 
