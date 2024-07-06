@@ -42,7 +42,8 @@ jupyter notebook neural_network_task.ipynb
 Here are some screenshots showing the output of the notebook at different stages:
 
 5.1 Data Visualization
-![image](https://github.com/ABDULLAHALMEHDHAR/Coding-Tasks/assets/163059044/a29cfdb5-19bd-4fe4-8709-8c452b579e8e)
+<img width="1470" alt="Screenshot 2024-07-05 at 18 11 42" src="https://github.com/ABDULLAHALMEHDHAR/Coding-Tasks/assets/163059044/2ff31de9-9d9f-4172-a161-e4d8410101cc">
+
 5.2 Model Training
 <img width="1470" alt="Screenshot 2024-07-06 at 11 40 52" src="https://github.com/ABDULLAHALMEHDHAR/Coding-Tasks/assets/163059044/e0c98773-412d-4366-b93b-80e6535f7dc1">
 
