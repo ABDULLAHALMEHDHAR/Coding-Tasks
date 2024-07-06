@@ -5,6 +5,7 @@
 - [Description](#Description)
 - [Installation](#installation)
 - [Usage](#usage)
+- [Examples](#examples)
 - [Credits](#credits)
 
 
@@ -43,7 +44,10 @@ Here are some screenshots showing the output of the notebook at different stages
 5.1 Data Visualization
 ![image](https://github.com/ABDULLAHALMEHDHAR/Coding-Tasks/assets/163059044/a29cfdb5-19bd-4fe4-8709-8c452b579e8e)
 5.2 Model Training
-5.3 Model Evaluation
+<img width="1470" alt="Screenshot 2024-07-06 at 11 40 52" src="https://github.com/ABDULLAHALMEHDHAR/Coding-Tasks/assets/163059044/e0c98773-412d-4366-b93b-80e6535f7dc1">
+
+5.3 Model Definition
+<img width="1470" alt="Screenshot 2024-07-06 at 11 54 38" src="https://github.com/ABDULLAHALMEHDHAR/Coding-Tasks/assets/163059044/72c16532-1bde-4ecd-b0c3-9c13e135c581">
 
 
 ## Credits
